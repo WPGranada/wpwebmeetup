@@ -1,0 +1,14 @@
+/*
+ Theme Name:   WPGranada
+ Theme URI:    http://wpgranada.es
+ Description:  WPGranada is a Twenty Nineteen's child theme
+ Author:       WPGranada
+ Author URI:   http://wpgranada.es
+ Template:     twentynineteen
+ Version:      1.0.0
+ License:      GNU General Public License v3 or later
+ License URI:  https://www.gnu.org/licenses/gpl-3.0.en.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  wpgranada
+*/
+@import url( '../twentynineteen/style.css' );
